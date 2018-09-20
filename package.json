@@ -1,0 +1,19 @@
+{
+  "name": "guide_to_retirement",
+  "version": "1.0.0",
+  "description": "guide_to_retirement with express.",
+  "main": "server.js",
+  "alexa1": {
+    "applicationId1": "amzn1.ask.skill.970c2812-2e04-40b3-8605-325731bdb6a0"
+  },
+  "alexa2": {
+    "applicationId2": "amzn1.ask.skill.48684e9a-0173-48fa-8568-91bbd2649f75"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "alexa-app": "^4.2.2",
+    "ssml-builder": "^0.4.3",
+    "body-parser": "^1.18.3",
+    "mongoose": "^5.1.6"
+  }
+}
